@@ -6,8 +6,8 @@ import showProgressImage from "../public/progress_1.svg";
 import brandLogo from "../public/logo.svg";
 import payPalImage from "../public/paypal.svg";
 import googleImage from "../public/google.svg";
-import dropBox_vector from "../public/dropBox_vector.svg";
-import dropBoxText_vector from "../public/dropBoxText_vector.svg";
+import dropBoxVector from "../public/dropBox_vector.svg";
+import dropBoxTextVector from "../public/dropBoxText_vector.svg";
 import homeIcon from "../public/home_icons.svg";
 import giftIcon from "../public/gift_box.svg";
 import cupIcon from "../public/cup_vector.svg";
@@ -78,8 +78,8 @@ export default function Home() {
                 <Image src={googleImage} alt="google" />
               </a>
               <a>
-                <Image src={dropBox_vector} alt="vector" />
-                <Image src={dropBoxText_vector} alt="dropbox" />
+                <Image src={dropBoxVector} alt="vector" />
+                <Image src={dropBoxTextVector} alt="dropbox" />
               </a>
             </div>
           </div>
