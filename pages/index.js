@@ -166,11 +166,11 @@ export default function Home() {
               guidelines ever.
             </p>
             <div className={styles.inputMargins}>
-              <Image src={circleVector} />
+              <Image src={circleVector} alt="circle" />
               <span>Unlimited design possibility</span>
             </div>
             <div className={styles.inputMargins}>
-              <Image src={circleVector} />
+              <Image src={circleVector} alt="arround circle" />
               <span>Completley responsive features</span>
             </div>
             <h4>Explore Details &rarr;</h4>
